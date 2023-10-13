@@ -9,3 +9,5 @@ for i in range(num_repeats):
     pyautogui.typewrite(message)
     pyautogui.press("enter")
     time.sleep(1)
+#install this:
+    pip install pyautogui
