@@ -7,3 +7,4 @@ time.sleep(3)
 for i in range(num_repeats):
     pyautogui.write("hola")
     pyautogui.press("enter")
+ pip install pyautogui
